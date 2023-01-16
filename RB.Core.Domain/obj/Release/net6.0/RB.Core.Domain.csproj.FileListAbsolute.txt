@@ -1,0 +1,12 @@
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\bin\Release\net6.0\RB.Core.Domain.deps.json
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\bin\Release\net6.0\RB.Core.Domain.dll
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\bin\Release\net6.0\RB.Core.Domain.pdb
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\obj\Release\net6.0\RB.Core.Domain.csproj.AssemblyReference.cache
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\obj\Release\net6.0\RB.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\obj\Release\net6.0\RB.Core.Domain.AssemblyInfoInputs.cache
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\obj\Release\net6.0\RB.Core.Domain.AssemblyInfo.cs
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\obj\Release\net6.0\RB.Core.Domain.csproj.CoreCompileInputs.cache
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\obj\Release\net6.0\RB.Core.Domain.dll
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\obj\Release\net6.0\refint\RB.Core.Domain.dll
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\obj\Release\net6.0\RB.Core.Domain.pdb
+D:\3.New Projects\RideBuddyApplication\RB.Core.Domain\obj\Release\net6.0\ref\RB.Core.Domain.dll

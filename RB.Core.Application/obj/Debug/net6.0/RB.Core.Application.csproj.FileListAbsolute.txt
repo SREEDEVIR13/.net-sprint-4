@@ -1,0 +1,30 @@
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\bin\Debug\net6.0\RB.Core.Application.deps.json
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\bin\Debug\net6.0\RB.Core.Application.dll
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\bin\Debug\net6.0\RB.Core.Application.pdb
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\bin\Debug\net6.0\RB.Core.Domain.dll
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\bin\Debug\net6.0\RB.Core.Domain.pdb
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.csproj.AssemblyReference.cache
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.AssemblyInfoInputs.cache
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.AssemblyInfo.cs
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.csproj.CoreCompileInputs.cache
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.csproj.CopyComplete
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.dll
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\obj\Debug\net6.0\refint\RB.Core.Application.dll
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.pdb
+D:\3.New Projects\RideBuddyApplication\RB.Core.Application\obj\Debug\net6.0\ref\RB.Core.Application.dll
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\bin\Debug\net6.0\RB.Core.Application.deps.json
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\bin\Debug\net6.0\RB.Core.Application.dll
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\bin\Debug\net6.0\RB.Core.Application.pdb
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\bin\Debug\net6.0\RB.Core.Domain.dll
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\bin\Debug\net6.0\RB.Core.Domain.pdb
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.csproj.AssemblyReference.cache
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.AssemblyInfoInputs.cache
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.AssemblyInfo.cs
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.csproj.CoreCompileInputs.cache
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.csproj.CopyComplete
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.dll
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\obj\Debug\net6.0\refint\RB.Core.Application.dll
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\obj\Debug\net6.0\RB.Core.Application.pdb
+D:\RideBuddy\backend\Clean-Arch\RB.Core.Application\obj\Debug\net6.0\ref\RB.Core.Application.dll

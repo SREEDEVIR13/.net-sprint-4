@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xWIdQB5ujEmd7MQKRDwLcKLCDq+gVenXiADSGHEiGoWbST/rcDmCSLYeY3Iv9+VlWrF7koccm0d7hf1kATpg9g==",
+  "success": true,
+  "projectFilePath": "D:\\RideBuddy\\backend\\Clean-Arch\\RB.Core.Application\\RB.Core.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sradhakrishnan\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\sradhakrishnan\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\sradhakrishnan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\sradhakrishnan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sradhakrishnan\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\sradhakrishnan\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\sradhakrishnan\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

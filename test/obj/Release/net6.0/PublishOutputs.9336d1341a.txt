@@ -1,0 +1,11 @@
+D:\3.New Projects\RideBuddyApplication\test\obj\Release\net6.0\PubTmp\Out\test.exe
+D:\3.New Projects\RideBuddyApplication\test\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\3.New Projects\RideBuddyApplication\test\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\3.New Projects\RideBuddyApplication\test\obj\Release\net6.0\PubTmp\Out\test.dll
+D:\3.New Projects\RideBuddyApplication\test\obj\Release\net6.0\PubTmp\Out\test.deps.json
+D:\3.New Projects\RideBuddyApplication\test\obj\Release\net6.0\PubTmp\Out\test.runtimeconfig.json
+D:\3.New Projects\RideBuddyApplication\test\obj\Release\net6.0\PubTmp\Out\test.pdb
+D:\3.New Projects\RideBuddyApplication\test\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\3.New Projects\RideBuddyApplication\test\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\3.New Projects\RideBuddyApplication\test\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\3.New Projects\RideBuddyApplication\test\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

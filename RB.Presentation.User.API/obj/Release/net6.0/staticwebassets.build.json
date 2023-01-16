@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "nC7dmaFS9x/fmiXifFrfBnkoJ0bvRUcHA0tOPUG/ruI=",
+  "Source": "RB.Presentation.User.API",
+  "BasePath": "_content/RB.Presentation.User.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RB.Presentation.User.API\\wwwroot",
+      "Source": "RB.Presentation.User.API",
+      "ContentRoot": "D:\\3.New Projects\\RideBuddyApplication\\RB.Presentation.User.API\\wwwroot\\",
+      "BasePath": "_content/RB.Presentation.User.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
