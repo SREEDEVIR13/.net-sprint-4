@@ -1,4 +1,5 @@
-﻿using RB.Core.Application.DTOModel;
+﻿using Microsoft.AspNetCore.Http;
+using RB.Core.Application.DTOModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,5 +13,6 @@ namespace RB.Core.Application.Interface
         UserResponseDTO HostRide(HostedRidesRequest hostedRides);
         public List<HostedRidesRequest> GetRides(string VehicleOwnerId);
         public List<HostedRidesRequest> GetDetails(int RideId);
+        public List<InvitedMembersResponse> GetInvitedMembers(int RideId, String Scheme, HostString Host, PathString PathBase);
     }
 }

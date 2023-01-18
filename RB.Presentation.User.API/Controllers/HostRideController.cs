@@ -42,10 +42,7 @@ namespace RB.Presentation.User.API.Controllers
 
 
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest("not a valid request");
-            }
+           
             var response = _hostRide.GetRides(OwnerId);
             return Ok(response);
 
@@ -61,20 +58,19 @@ namespace RB.Presentation.User.API.Controllers
         [Route("getDetailRide")]
         public IActionResult GetRideDetail(int Id)
 
-
-
-
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest("not a valid request");
-            }
+            
             var response = _hostRide.GetDetails( Id);
             return Ok(response);
 
-
-
-
         }
+        [HttpGet]
+        [Route("getInvitedUsers")]
+        public IActionResult GetInvitedUsers(int Id)
+        {
+            var response = _hostRide.GetInvitedMembers(Id, Request.Scheme, Request.Host, Request.PathBase);
+            return Ok(response);
+        }
+
     }
 }

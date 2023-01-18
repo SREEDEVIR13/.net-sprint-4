@@ -1,5 +1,7 @@
 ﻿using AutoMapper.Execution;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
+using Microsoft.EntityFrameworkCore;
 using RB.Core.Application.DTOModel;
 using RB.Core.Application.Interface;
 using RB.Core.Domain.Models;
@@ -55,6 +57,32 @@ namespace RB.Infrastructure.RB.Infrastructure.Services.User
                 response.Status = false;
                 response.Output = "No Rides ";
                 return list;
+            }
+        }
+
+
+        //  invited status list
+        public List<InvitedMembersResponse> GetInvitedMembers(int RideId, string Scheme, HostString Host, PathString PathBase)
+        {
+            var response = new List<InvitedMembersResponse>();
+            var data = _userDbContext.Requests.Where(i => i.HostedRideId == RideId).Include(x => x.UserRegister).ToList();
+            if (data != null)
+            {
+                foreach (var item in data)
+                {
+                    InvitedMembersResponse member = new InvitedMembersResponse();
+                    member.FullName = item.UserRegister.FirstName + " " + item.UserRegister.LastName;
+                    member.Status = item.Status;
+                    member.ImageSrc = String.Format("{0}://{1}{2}/Images/{3}"
+                            , Scheme, Host, PathBase, item.UserRegister.ProfileImageName);
+                    response.Add(member);
+                    member.InvitationId = item.Id;
+                }
+                return response;
+            }
+            else
+            {
+                return response;
             }
         }
 

@@ -77,7 +77,7 @@ builder.Services.AddScoped<IHostRide, HostRideService>();
 builder.Services.AddScoped<ICallOption, CallOption>();
 builder.Services.AddScoped<IForgotPassword, ForgotPassword>();
 builder.Services.AddScoped<IUserLogin, UserLoginService>();
-
+builder.Services.AddScoped<IRequestHandling,RequestHandling>();
 
 var app = builder.Build();
 
